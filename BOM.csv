@@ -1,9 +1,1 @@
-Quantity,Component,Value/Specification,Reference
-1,Timer IC,555 Timer,U1
-1,LED,5mm,D1
-2,Battery Holder,CR2032,BT1 BT2
-1,Capacitor,10uF,C1
-1,Push Button,6mm,SW1
-1,Resistor,4.7k,R1
-2,Resistor,47k,R2 R3
-1,Resistor,470,R4
+
