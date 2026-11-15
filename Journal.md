@@ -3,7 +3,7 @@ title: "Simple Sans-Themed Pcb"
 github: "https://github.com/catfur22/solder-hackclub-project"
 description: "This is a sans themed decorative pcb that im building to learn how to use kicad and how to make circuits."
 created_at: "2026-11-15"
-total_time: "3h"
+total_time: "3h 30m"
 ---
 
 # November 14, 2026: I did almost all of the project
@@ -19,3 +19,12 @@ I learned a lot about this. I also challenged myself to not use a microcontrolle
 
 **Total time spent: 3h**
 
+# November 15, 2026: I finished the BOM
+<!-- fabricate:entry 3066 -->
+
+I finished the BOM after researching many parts on digikey and I also tweaked the github repository to finish that. I think im ready to submit this project now.
+
+![](https://fabricate.hackclub-assets.com/9a4ee3970e8150a24c6d57a05bd275f191644a058a39110b3be0cce6afd06f02/image-png/Screenshot%202026-11-15%20065754.png)
+![](https://fabricate.hackclub-assets.com/9b6105d7585d55bbadfe07e6dc7afaf9a26380fe7aadb95fe518f863316a8991/image-png/Screenshot%202026-11-15%20065816.png)
+
+**Total time spent: 30m**
